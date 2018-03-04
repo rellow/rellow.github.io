@@ -5,11 +5,16 @@
 body {
     padding-top: 2cm;
     padding-bottom: 1cm;
+    padding-right:4cm;
+    padding-left:4cm;
 }
 
 contact {
     list-style-type: none;
     margin: 0;
+}
+
+contact-info {
     text-transform: uppercase;
 }
 
